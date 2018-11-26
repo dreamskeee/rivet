@@ -7,3 +7,4 @@ Because there is effectively a head on each end of an installed rivet, it can su
 
 Fastenings used in traditional wooden boat building, such as copper nails and clinch bolts, work on the same principle as the rivet but were in use long before the term rivet was introduced and, where they are remembered, are usually classified among nails and bolts respectively.
 
+![rivets](https://github.com/dreamskeee/rivet/blob/master/rivets.png)
